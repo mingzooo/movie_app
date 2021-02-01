@@ -6,4 +6,4 @@ Movie App 클릭하면 해당 페이지로 이동!
 - router, navigation  
   
 ## Preview  
-https://user-images.githubusercontent.com/62490238/106481067-65a1dc80-64ef-11eb-806a-e10578388158.mp4
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/62490238/106481617-f4165e00-64ef-11eb-8b4a-e57c251ffc6d.gif)  
