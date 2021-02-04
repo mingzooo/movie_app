@@ -1,5 +1,5 @@
 # [✨Movie App✨](https://minjoo-park01.github.io/movie_app/)  
-Movie App 클릭하면 해당 페이지로 이동!
+Movie App 클릭하면 해당 페이지로 이동!  
 토렌트 다운수를 기준으로 영화 소개 웹사이트  
 
 ## Skill  
